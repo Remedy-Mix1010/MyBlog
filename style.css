@@ -1,0 +1,40 @@
+body{
+    background-color: #BEC2cb;
+    font-family: 'Gochi Hand', cursive;
+}
+#h{
+    text-align: center;
+    font-size: small;
+}
+#ee{
+    text-align: center;
+}
+#zane{
+    height: 300px;
+    width: 250px;
+}
+img:hover{
+transform: scale(0.9);
+}
+#plan{
+        height: 200px;
+
+}
+#plan{
+    font-family: monospace;
+    position: absolute;
+    overflow: hidden;
+    height: 400px;
+    left: 0;
+    top: 0;
+    bottom: 200;
+    right: 0;
+    opacity:0.83;
+    background-image: linear-gradient(to top,#bec2cb , #570861);
+    display: table;
+    width: 100%;
+    height: 50%;
+    font-family: 'Gochi Hand', cursive;
+    text-align: center;
+    font-size: xx-large;
+}
